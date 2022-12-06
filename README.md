@@ -12,7 +12,7 @@ I use [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/) without the [angle
 
 If you have AutoHotkey installed, you can simply grab the script in the source code.
 
-If you wish to use it without installing AutoHotkey, you'll have to compile. Instructions for doing so are available in the [AutoHotkey documentation](https://www.autohotkey.com/docs/Scripts.htm#ahk2exe).
+If you wish to use it without installing AutoHotkey, you'll have to compile it to a standalone executable first. Instructions for doing so are available in the [AutoHotkey documentation](https://www.autohotkey.com/docs/Scripts.htm#ahk2exe).
 
 A pre-compiled version of this script is available on the [releases page](https://github.com/ChuseCubr/keyboard-config).
 
