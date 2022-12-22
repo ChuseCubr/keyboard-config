@@ -30,7 +30,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Space reduction */
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
-#define VIAL_TAP_DANCE_ENTRIES 16
+#define VIAL_TAP_DANCE_ENTRIES 10
+#define VIAL_COMBO_ENTRIES 10
 #undef LOCKING_SUPPORT_ENABLE
 #undef LOCKING_RESYNC_ENABLE
 // #define NO_ACTION_ONESHOT
@@ -43,16 +44,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define USE_SERIAL_PD2
 
-// Only if you don't use qmk settings
-// fix LSFT_T(KC_ENTER)
 // #define TAPPING_FORCE_HOLD
-/* #define TAPPING_FORCE_HOLD_PER_KEY */
+// #define TAPPING_TERM 100
 
-// TT tap count thing
-/* #define TAPPING_TOGGLE 3 */
 
-// #define TAPPING_TERM 200
-
-// osl settings
-// #define ONESHOT_TIMEOUT 500
-// #define ONESHOT_TAP_TOGGLE 2
