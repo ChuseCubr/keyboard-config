@@ -23,3 +23,7 @@ I tried to play around with custom Vial firmware to get what I want out of my cu
 The compiled firmware is available on the [releases page](https://github.com/ChuseCubr/keyboard-config)
 
 For more info on building, check out the [Vial guide](https://get.vial.today/docs/porting-to-vial.html)
+
+## Lily58 Layout
+
+This uses [Mini-ryoku](https://github.com/ChuseCubr/mini-ryoku), my 34-key layout based on [Miryoku](https://github.com/manna-harbour/miryoku), with gaming layers.
