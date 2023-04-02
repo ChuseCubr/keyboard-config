@@ -30,10 +30,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Space reduction */
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
-#define VIAL_TAP_DANCE_ENTRIES 10
-#define VIAL_COMBO_ENTRIES 10
 #undef LOCKING_SUPPORT_ENABLE
 #undef LOCKING_RESYNC_ENABLE
+// #define DYNAMIC_KEYMAP_MACRO_COUNT 4
+// #define VIAL_TAP_DANCE_ENTRIES 4
+// #define VIAL_COMBO_ENTRIES 4
 // #define NO_ACTION_ONESHOT
 
 /* Select hand configuration */
@@ -44,7 +45,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define USE_SERIAL_PD2
 
+/* Tap Hold Settings */
+
 // #define TAPPING_FORCE_HOLD
-// #define TAPPING_TERM 100
+// #define IGNORE_MOD_TAP_INTERRUPT
+// #define TAPPING_TERM 50
 
+/* Mouse settings (Defaults converted for 144Hz) */
 
+// #define MOUSEKEY_INTERVAL 6
+// #define MOUSEKEY_MOVE_DELTA 5
+// #define MOUSEKEY_MAX_SPEED 3
+// #define MOUSEKEY_TIME_TO_MAX 333
